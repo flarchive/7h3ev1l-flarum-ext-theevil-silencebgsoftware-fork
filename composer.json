@@ -1,0 +1,31 @@
+{
+    "name": "7h3ev1l/flarum-ext-theevil-silencebgsoftware-fork",
+    "description": "Custom for silencebgsoftware fork",
+    "version": "v1.0.0-beta.4",
+    "type": "flarum-extension",
+    "license":"MIT",
+    "authors": [
+      {
+        "name": "Matteo Pompili",
+        "email": "matpompili@gmail.com"
+      }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.3"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Favicon",
+            "icon": {
+                "name": "file-image-o",
+                "backgroundColor": "#000",
+                "color": "#fff"
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Matpompili\\Favicon\\": "src/"
+        }
+    }
+}
