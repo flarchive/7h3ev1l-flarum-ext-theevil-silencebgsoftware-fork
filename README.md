@@ -1,15 +1,20 @@
 # 7h3ev1l/flarum-ext-theevil-silencebgsoftware-fork (Archive)
 
-This repository is a permanent, read-only archive of released versions of `7h3ev1l/flarum-ext-theevil-silencebgsoftware-fork`, preserved by the [Extension Archive for Flarum](https://github.com/flarchive/archive-index).
+This repository is a permanent, read-only archive of released versions of `7h3ev1l/flarum-ext-theevil-silencebgsoftware-fork`, preserved by [Flarchive](https://github.com/flarchive/archive-index).
+
+> **ARCHIVE NOTICE:** This repository is a permanent, read-only historical archive. It is strictly for preservation, historical audit, and recovery. **Do not install extensions from this archive.** For active forum installations, always use the official package releases on Packagist and the original author's repository.
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-## Quick Download
+## Archive Status
 
-- **Latest Archived Version:** `v1.0.0-beta.4`
-- **Flarum Compatibility:** `^0.1.0-beta.3`
-- **Direct Download (.zip):** [Download v1.0.0-beta.4 (.zip)](https://github.com/flarchive/7h3ev1l-flarum-ext-theevil-silencebgsoftware-fork/archive/refs/tags/archive/v1.0.0-beta.4.zip)
-- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/7h3ev1l-flarum-ext-theevil-silencebgsoftware-fork/tags)
+- **Latest Archived Release:** `v1.0.0-beta.4`
+- **Target Flarum Compatibility:** `^0.1.0-beta.3`
+- **Declared License:** `MIT`
+- **Upstream Repository:** https://github.com/7h3ev1l/flarum-ext-theevil-silencebgsoftware-fork.git
+- **All Archived Tags:** [View Tags](https://github.com/flarchive/7h3ev1l-flarum-ext-theevil-silencebgsoftware-fork/tags)
+
+*Archived source trees are preserved byte-for-byte as immutable tags under `refs/tags/archive/*`. The `main` branch contains only this archive notice.*
 
 ## Archive Catalog
 
