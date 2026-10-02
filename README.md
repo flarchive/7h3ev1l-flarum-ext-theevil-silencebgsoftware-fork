@@ -4,7 +4,16 @@ This repository is a permanent, read-only archive of released versions of `7h3ev
 
 > **Not affiliated with the Flarum Foundation or the Flarum project.**
 
-- Archived versions are stored as tags: `archive/vX.Y.Z`
+## Quick Download
+
+- **Latest Archived Version:** `v1.0.0-beta.4`
+- **Flarum Compatibility:** `^0.1.0-beta.3`
+- **Direct Download (.zip):** [Download v1.0.0-beta.4 (.zip)](https://github.com/flarchive/7h3ev1l-flarum-ext-theevil-silencebgsoftware-fork/archive/refs/tags/archive/v1.0.0-beta.4.zip)
+- **All Releases & Tags:** [View All Releases & Tags](https://github.com/flarchive/7h3ev1l-flarum-ext-theevil-silencebgsoftware-fork/tags)
+
+## Archive Catalog
+
+- **Catalog Entry (JSON):** [View manifest](https://github.com/flarchive/archive-index/blob/main/packages/7h3ev1l-flarum-ext-theevil-silencebgsoftware-fork.json)
 - Upstream repository: https://github.com/7h3ev1l/flarum-ext-theevil-silencebgsoftware-fork.git
 - Issues, pull requests, discussions, and wiki are disabled on this repository.
 
